@@ -89,8 +89,8 @@ export const mockAppointments = [
 export const mockUsers = [
   { id: 1, name: 'John Doe', email: 'john@example.com', role: 'patient', status: 'active', joinDate: '2024-01-15' },
   { id: 2, name: 'Jane Smith', email: 'jane@example.com', role: 'patient', status: 'active', joinDate: '2024-01-20' },
-  { id: 3, name: 'Dr. Sarah Johnson', email: 'sarah@medicare.com', role: 'doctor', status: 'active', joinDate: '2023-06-01' },
-  { id: 4, name: 'Dr. Michael Chen', email: 'michael@medicare.com', role: 'doctor', status: 'active', joinDate: '2023-07-15' },
+  { id: 3, name: 'Dr. Sarah Johnson', email: 'sarah@medislot360.com', role: 'doctor', status: 'active', joinDate: '2023-06-01' },
+  { id: 4, name: 'Dr. Michael Chen', email: 'michael@medislot360.com', role: 'doctor', status: 'active', joinDate: '2023-07-15' },
   { id: 5, name: 'Robert Wilson', email: 'robert@example.com', role: 'patient', status: 'inactive', joinDate: '2024-02-10' },
 ];
 

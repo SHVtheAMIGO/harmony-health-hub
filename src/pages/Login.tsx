@@ -103,7 +103,7 @@ const Login = () => {
               <div className={cn('rounded-xl p-2', config.gradient)}>
                 <Heart className="h-5 w-5 text-white" />
               </div>
-              <span className="font-bold">MediCare</span>
+              <span className="font-bold">MediSlot 360</span>
             </div>
             
             <h1 className="text-3xl font-bold mt-6">{config.title}</h1>
@@ -185,7 +185,7 @@ const Login = () => {
           <div className="animate-float">
             <Heart className="h-24 w-24 mx-auto opacity-90" />
           </div>
-          <h2 className="mt-8 text-3xl font-bold">Welcome to MediCare</h2>
+          <h2 className="mt-8 text-3xl font-bold">Welcome to MediSlot 360</h2>
           <p className="mt-4 text-white/80">
             Your trusted partner in healthcare management. Access your {currentRole} dashboard and manage your healthcare journey.
           </p>

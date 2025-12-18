@@ -33,7 +33,7 @@ const Exit = () => {
         </div>
 
         {/* Message */}
-        <h1 className="text-3xl font-bold mb-4">Thanks for using MediCare!</h1>
+        <h1 className="text-3xl font-bold mb-4">Thanks for using MediSlot 360!</h1>
         <p className="text-muted-foreground mb-8">
           Your session has ended successfully. We hope to see you again soon.
         </p>
@@ -53,7 +53,7 @@ const Exit = () => {
         {/* Logo */}
         <div className="mt-12 flex items-center justify-center gap-2 text-muted-foreground">
           <Heart className="h-5 w-5" />
-          <span className="font-semibold">MediCare</span>
+          <span className="font-semibold">MediSlot 360</span>
         </div>
       </div>
     </div>

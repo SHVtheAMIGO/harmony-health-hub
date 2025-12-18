@@ -29,7 +29,7 @@ const Welcome = () => {
               <div className="gradient-hero rounded-xl p-2">
                 <Heart className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">MediCare</span>
+              <span className="text-xl font-bold">MediSlot 360</span>
             </div>
             <Button variant="ghost" onClick={() => navigate('/auth/select-role')}>
               Sign In
@@ -152,7 +152,7 @@ const Welcome = () => {
         <div className="rounded-3xl gradient-hero p-12 text-center text-white">
           <h2 className="text-3xl font-bold">Ready to Get Started?</h2>
           <p className="mt-4 text-white/80">
-            Join thousands of users who trust MediCare for their healthcare needs
+            Join thousands of users who trust MediSlot 360 for their healthcare needs
           </p>
           <Button
             variant="secondary"
@@ -168,7 +168,7 @@ const Welcome = () => {
       {/* Footer */}
       <footer className="border-t bg-card py-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>© 2024 MediCare. All rights reserved.</p>
+          <p>© 2024 MediSlot 360. All rights reserved.</p>
         </div>
       </footer>
     </div>
