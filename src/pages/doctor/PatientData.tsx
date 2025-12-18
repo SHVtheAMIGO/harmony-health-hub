@@ -36,7 +36,7 @@ const PatientData = () => {
             <div className="gradient-doctor rounded-xl p-2">
               <Heart className="h-5 w-5 text-white" />
             </div>
-            <span className="font-bold">MediCare</span>
+            <span className="font-bold">MediSlot 360</span>
             <span className="text-muted-foreground">| Doctor Portal</span>
           </div>
           <Button variant="ghost" onClick={handleLogout}>Logout</Button>

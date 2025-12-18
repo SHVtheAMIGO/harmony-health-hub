@@ -33,7 +33,7 @@ const RoleSelection = () => {
             <div className="gradient-hero rounded-xl p-2">
               <Heart className="h-6 w-6 text-white" />
             </div>
-            <span className="text-xl font-bold">MediCare</span>
+            <span className="text-xl font-bold">MediSlot 360</span>
           </div>
         </header>
 
@@ -42,7 +42,7 @@ const RoleSelection = () => {
           <div className="text-center animate-fade-in">
             <h1 className="text-3xl font-bold sm:text-4xl">Select Your Role</h1>
             <p className="mt-4 text-muted-foreground">
-              Choose how you'd like to use MediCare today
+              Choose how you'd like to use MediSlot 360 today
             </p>
           </div>
 
