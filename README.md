@@ -46,8 +46,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-**Step 1:** Save the project and extract the neccesary files locally.
-**Step 2:** Open the terminal in the folder location.
-**Step 3:** run these commands 
